@@ -17,5 +17,5 @@ Dataset Link: https://www.kaggle.com/datasets/mdsazzatsardar/amazonsalesreport
 ------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------
 Note: While checking the dataset, some defects are found and we cleaned them up.
-* Remove 13496 duplicated and missing values rows.
+* Removed 13496 duplicated and missing values rows.
 
